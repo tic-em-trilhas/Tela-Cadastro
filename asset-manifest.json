@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Tela-Cadastro/static/css/main.3407183a.css",
+    "main.css": "/Tela-Cadastro/static/css/main.93d83862.css",
     "main.js": "/Tela-Cadastro/static/js/main.79a6e0ac.js",
     "static/media/logotipo.png": "/Tela-Cadastro/static/media/logotipo.a9d8900a3d4aef168a23.png",
     "index.html": "/Tela-Cadastro/index.html",
-    "main.3407183a.css.map": "/Tela-Cadastro/static/css/main.3407183a.css.map",
+    "main.93d83862.css.map": "/Tela-Cadastro/static/css/main.93d83862.css.map",
     "main.79a6e0ac.js.map": "/Tela-Cadastro/static/js/main.79a6e0ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.3407183a.css",
+    "static/css/main.93d83862.css",
     "static/js/main.79a6e0ac.js"
   ]
 }
